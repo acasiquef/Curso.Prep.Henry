@@ -1,0 +1,13 @@
+Variable: es un espacio en la memoria del programa para almacenar algun valor o dato, para luego ser utilizado
+
+strings: se refier a una cadena de caracteres encerradas entre comillas simples o dobles
+
+Funciones: son un tipo de objetos que tiene todo programa para hacer determinada funcion, la cual tiene 
+entradas, que son los argumentos, 
+los operadores o procedimiento que es en si lo que hace la funcion y un resultado que es lo que muestra o
+valor que da la funcion
+
+declaraciones if: es una sentencia condicional, la cual evalua una operacion dentro de ella y puede 
+arrojar dos valores TRUE y FALSE
+
+Valores Booleanos: son valores de logica que estan representado por 2 estados, verdadero o falso
