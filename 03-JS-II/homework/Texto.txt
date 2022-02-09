@@ -1,0 +1,8 @@
+For: Es una estructura de repeticion que ha que una sentencia se repita n de veces
+
+&&: Es un operador logico que significa Y o AND, se utiliza para que se cumpla una o mas condiciones
+
+||: Es un operador logico que significa O o OR, se utiliza para que se cumpla una de las condiciones
+
+!: Es un operador logico que significa NO o NOT, se utiliza para convertir un valor booleano por su contrario,
+tambien puede ir acompañado de uno o dos signo igual "==" que significa "diferente a"
